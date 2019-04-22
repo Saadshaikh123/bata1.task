@@ -1,0 +1,18 @@
+  /* Style the footer */
+  .footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+}
+
+
+select {
+    width: 50%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(160, 109, 109);
+    border-radius: 4px;
+    box-sizing: border-box;
+    border-block-end-style: antiquewhite
+}
